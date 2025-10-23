@@ -15,9 +15,6 @@ Expensio is a powerful and user-friendly **personal finance and expense tracker 
 - **Custom Categories & Budgets**  
   Create personalized spending categories and set monthly budget limits.
 
-- **Smart Notifications**  
-  Receive alerts for low balance, budget limits, and weekly/monthly summaries.
-
 - **Currency Support**  
   Select your preferred currency for accurate tracking.
 
@@ -43,5 +40,5 @@ Expensio is a powerful and user-friendly **personal finance and expense tracker 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/expensio.git
+git clone https://github.com/nk6919/expensio.git
 cd expensio
